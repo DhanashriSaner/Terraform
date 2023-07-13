@@ -53,7 +53,7 @@ sudo apt-get install terraform
 ```
 terraform --version
 ```
-![image](https://github.com/DhanashriSaner/Terraform/assets/88526990/805917fb-ad07-49fc-acf8-6448e9e87e96)
+![image](https://github.com/DhanashriSaner/Terraform/assets/88526990/2dfe7df8-5058-4233-9570-6633ef0acf72)
 
 
 #### Validate Terraform
@@ -70,6 +70,25 @@ terraform init
 
 #### Terraform Plan Command
 
+```
+terraform plan
+```
+![image](https://github.com/DhanashriSaner/Terraform/assets/88526990/7370a03e-08e3-45a4-9aa1-ad674e46988b)
+
+#### Terraform Apply
+
+```
+terraform apply
+```
+#### Output
+![image](https://github.com/DhanashriSaner/Terraform/assets/88526990/8ea7e70f-7cb6-4d55-8b73-97352de8eb17)
+
+
+
+    }
+  ],
+  "check_results": null
+}
 
 
 
